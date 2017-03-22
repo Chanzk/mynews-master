@@ -52,6 +52,10 @@ public class MainActivity extends AppCompatActivity
     private DrawerLayout drawer;
     private Toolbar toolbar;
 
+
+
+
+
     public static final String ACTION_BOOKMARKS = "com.marktony.zhihudaily.bookmarks";
 
     @Override
